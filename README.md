@@ -1,4 +1,4 @@
-# Notebook para workshop de SnowPark en Impact4Tech. 
+# Notebook para workshop de SnowPark en Impact4Tech
 
 Para descargar, se puede utilizar el siguiente QR:
 
