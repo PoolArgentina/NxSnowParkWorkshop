@@ -10,7 +10,7 @@ def findTopInvestment(val1, text1, val2, text2, val3, text3, val4, text4):
     max_val = max(values)
     sum_val = sum(values)
 
-    porc_val = round(max_val / sum_val * 100, 2)
+    porc_val = round((max_val / sum_val) * 100, 2)
     
     return f"{values[max_val]} with {porc_val} of total"
 $$;
